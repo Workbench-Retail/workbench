@@ -3,7 +3,7 @@
 	url = https://github.com/Workbench-Retail/automation-api-service-generator.git
 [submodule "automation-frontend"]
 	path = automation-frontend
-	url = https://github.com/ONDC-Official/automation-frontend.git
+	url = https://github.com/Workbench-Retail/automation-frontend.git
 [submodule "automation-config-service"]
 	path = automation-config-service
 	url = https://github.com/Workbench-Retail/automation-config-service.git
