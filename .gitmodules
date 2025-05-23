@@ -1,12 +1,19 @@
 [submodule "automation-api-service-generator"]
 	path = automation-api-service-generator
 	url = https://github.com/Workbench-Retail/automation-api-service-generator.git
+	branch = main
+
 [submodule "automation-frontend"]
 	path = automation-frontend
-	url = https://github.com/ONDC-Official/automation-frontend.git
+	url = https://github.com/Workbench-Retail/automation-frontend.git
+	branch = main
+
 [submodule "automation-config-service"]
 	path = automation-config-service
 	url = https://github.com/Workbench-Retail/automation-config-service.git
+	branch = main
+
 [submodule "automation-mock-service"]
 	path = automation-mock-service
 	url = https://github.com/Workbench-Retail/automation-mock-service.git
+	branch = main
